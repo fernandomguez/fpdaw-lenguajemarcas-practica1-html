@@ -1,2 +1,34 @@
 # fpdaw-lenguajemarcas-practica1-html
 FP DAW - Lenguaje de marcas. Práctica 1 de uso de formato de texto, imágenes, hipervínculos y tablas
+
+# Práctica 1 – Desarrollo Web con HTML  
+FP DAW · Lenguajes de Marcas (LMSGI) · CIPFP Mislata
+
+## Descripción
+Esta práctica consiste en crear un pequeño sitio sobre las **clasificaciones de los planetas del Sistema Solar**.  
+El proyecto incluye **cinco páginas HTML** enlazadas entre sí y una carpeta de imágenes.
+
+## Archivos principales
+| Archivo | Propósito |
+|---------|-----------|
+| `inicio.html` | Página principal con enlaces (imágenes) a cada clasificación |
+| `rocosos.html` | Tabla detallada de planetas rocosos |
+| `gasosos.html` | Listas anidadas para planetas gigantes gaseosos |
+| `gelats.html`  | Descripción de planetas gigantes helados con imágenes |
+| `neptu.html`   | Página individual para Neptuno (enlazada desde `gelats.html`) |
+
+## Objetivos didácticos
+- Practicar el uso de **estructuras HTML semánticas** (`header`, `main`, `section`, etc.).  
+- Construir **tablas** con `<thead>/<tbody>` y aplicar estilos de bordes y celdas.  
+- Crear **listas ordenadas y no ordenadas** anidadas.  
+- Insertar **imágenes enlazadas** y controlar su tamaño.  
+- Gestionar la **navegación interna** mediante enlaces relativos.  
+- Preparar los metadatos esenciales: título, autor, `charset` y `viewport`.
+
+## Estructura del proyecto
+
+## Créditos
+- **Autor/a**: *Fernando Mínguez*  
+- **Asignatura**: Lenguajes de Marcas (LMSGI) – FP Desarrollo de Aplicaciones Web  
+- **Centro**: CIPFP Mislata  
+- **Curso**: 2025/26
