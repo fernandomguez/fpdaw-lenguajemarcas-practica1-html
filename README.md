@@ -23,18 +23,18 @@ El proyecto incluye **cinco páginas HTML** enlazadas entre sí y una carpeta de
 
 ## Estructura del proyecto
 Practica1_HTML_Planetas/
-  inicio.html
-  rocosos.html
-  gasosos.html
-  gelats.html
-  neptu.html
-  img/
-    rocosos.jpg
-    gasosos.jpg
-    gelats.jpg
-    urano.jpg
-    neptuno.jpg
-  README.md
+├── inicio.html
+├── rocosos.html
+├── gasosos.html
+├── gelats.html
+├── neptu.html
+├── img/
+│   ├── rocosos.jpg
+│   ├── gasosos.jpg
+│   ├── gelats.jpg
+│   ├── urano.jpg
+│   └── neptuno.jpg
+└── README.md
 
 ## Créditos
 - **Autor/a**: *Fernando Mínguez*  
